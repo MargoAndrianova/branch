@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Boo
+=======
+Added new text
+>>>>>>> new_branch
